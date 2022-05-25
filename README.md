@@ -1,7 +1,7 @@
 Hello Folks! 👋
 
 I am Subramanya manjunath
-I am National LeveL Senior Academic Specialist online platfoms
+I am a National LeveL Senior Academic Specialist on online platfoms
 with the past 5+ Years Work Experience as a Asssistant General Manager Quality Divison in a Reputed Core Company KARNATAKA
 
 - 🔭 I’m currently working on PYTHON...
